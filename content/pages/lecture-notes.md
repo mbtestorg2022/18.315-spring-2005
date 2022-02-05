@@ -6,44 +6,605 @@ uid: b52ccc0d-5155-38ae-219b-cf1df67d760a
 
 These lecture notes were taken by Amanda Redlich, a student in the class, and were used with permission.
 
-| Lec # | Topics | Lecture Notes |
-| --- | --- | --- |
-| 1 | Course Introduction  {{< br >}}  {{< br >}}Ramsey Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec01)) |
-| 2 | Additive Number Theory  {{< br >}}  {{< br >}}Theorems of Schur and Van der Waerden | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec02)) |
-| 3 | Lower Bound in Schur's Theorem  {{< br >}}  {{< br >}}Erdös-Szekeres Theorem (Two Proofs)  {{< br >}}  {{< br >}}2-Colorability of Multigraphs  {{< br >}}  {{< br >}}Intersection Conditions | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec03)) |
-| 4 | More on Colorings  {{< br >}}  {{< br >}}Greedy Algorithm  {{< br >}}  {{< br >}}Height Functions Argument for 3-Colorings of a Rectangle  {{< br >}}  {{< br >}}Erdös Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec04)) |
-| 5 | More on Colorings (cont.)  {{< br >}}  {{< br >}}Erdös-Lovász Theorem  {{< br >}}  {{< br >}}Brooks Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec05)) |
-| 6 | 5-Color Theorem  {{< br >}}  {{< br >}}Vizing's Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec06)) |
-| 7 | Edge Coloring of Bipartite Graphs  {{< br >}}  {{< br >}}Heawood Formula | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec07)) |
-| 8 | Glauber Dynamics  {{< br >}}  {{< br >}}The Diameter  {{< br >}}  {{< br >}}Explicit Calculations  {{< br >}}  {{< br >}}Bounds on Chromatic Number via the Number of Edges, and via the Independence Number | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec08)) |
-| 9 | Chromatic Polynomial  {{< br >}}  {{< br >}}NBC Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec09)) |
-| 10 | Acyclic Orientations  {{< br >}}  {{< br >}}Stanley's Theorem  {{< br >}}  {{< br >}}Two Definitions of the Tutte Polynomial | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec10)) |
-| 11 | More on Tutte Polynomial  {{< br >}}  {{< br >}}Special Values  {{< br >}}  {{< br >}}External and Internal Activities  {{< br >}}  {{< br >}}Tutte's Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec11)) |
-| 12 | Tutte Polynomial for a Cycle  {{< br >}}  {{< br >}}Gessel's Formula for Tutte Polynomial of a Complete Graph | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec12)) |
-| 13 | Crapo's Bijection  {{< br >}}  {{< br >}}Medial Graph and Two Type of Cuts  {{< br >}}  {{< br >}}Introduction to Knot Theory  {{< br >}}  {{< br >}}Reidemeister Moves | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec13)) |
-| 14 | Kauffman Bracket and Jones Polynomial | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec14)) |
-| 15 | Linear Algebra Methods  {{< br >}}  {{< br >}}Oddtown Theorem  {{< br >}}  {{< br >}}Fisher's Inequality  {{< br >}}  {{< br >}}2-Distance Sets | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec15)) |
-| 16 | Non-uniform Ray-Chaudhuri-Wilson Theorem  {{< br >}}  {{< br >}}Frankl-Wilson Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec16)) |
-| 17 | Borsuk Conjecture  {{< br >}}  {{< br >}}Kahn-Kalai Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec17)) |
-| 18 | Packing with Bipartite Graphs  {{< br >}}  {{< br >}}Testing Matrix Multiplication | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec18)) |
-| 19 | Hamiltonicity, Basic Results  {{< br >}}  {{< br >}}Tutte's Counter Example  {{< br >}}  {{< br >}}Length of the Longest Path in a Planar Graph | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec19)) |
-| 20 | Grinberg's Formula  {{< br >}}  {{< br >}}Lovász and Babai Conjectures for Vertex-transitive Graphs  {{< br >}}  {{< br >}}Dirac's Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec20)) |
-| 21 | Tutte's Theorem  {{< br >}}  {{< br >}}Every Cubic Graph Contains either no HC, or At Least Three  {{< br >}}  {{< br >}}Examples of Hamiltonian Cycles in Cayley Graphs of Sn | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec21)) |
-| 22 | Hamiltonian Cayley Graphs of General Groups | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec22)) |
-| 23 | Menger Theorem  {{< br >}}  {{< br >}}Gallai-Milgram Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec23)) |
-| 24 | Dilworth Theorem  {{< br >}}  {{< br >}}Hall's Marriage Theorem  {{< br >}}  {{< br >}}Erdös-Szekeres Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec24)) |
-| 25 | Sperner Theorem  {{< br >}}  {{< br >}}Two Proofs of Mantel Theorem  {{< br >}}  {{< br >}}Graham-Kleitman Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec25)) |
-| 26 | Swell Colorings  {{< br >}}  {{< br >}}Ward-Szabo Theorem  {{< br >}}  {{< br >}}Affine Planes | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec26)) |
-| 27 | Turán's Theorem  {{< br >}}  {{< br >}}Asymptotic Analogues | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec27)) |
-| 28 | Pattern Avoidance  {{< br >}}  {{< br >}}The case of S3 and Catalan Numbers  {{< br >}}  {{< br >}}Stanley-Wilf Conjecture | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec28)) |
-| 29 | Permutation Patterns  {{< br >}}  {{< br >}}Arratia Theorem  {{< br >}}  {{< br >}}Furedi-Hajnal Conjecture | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec29)) |
-| 30 | Proof by Marcus and Tardos of the Stanley-Wilf Conjecture | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec30)) |
-| 31 | Non-intersecting Path Principle  {{< br >}}  {{< br >}}Gessel-Viennot Determinants  {{< br >}}  {{< br >}}Binet-Cauchy Identity | &nbsp; |
-| 32 | Convex Polyomino  {{< br >}}  {{< br >}}Narayana Numbers  {{< br >}}  {{< br >}}MacMahon Formula | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec31)) |
-| 33 | Solid Partitions  {{< br >}}  {{< br >}}MacMahon's Theorem  {{< br >}}  {{< br >}}Hook-content Formula | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec32)) |
-| 34 | Hook Length Formula | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec33)) |
-| 35 | Two Polytope Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec34)) |
-| 36 | Connection to RSK  {{< br >}}  {{< br >}}Special Cases | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec35)) |
-| 37 | Duality  {{< br >}}  {{< br >}}Number of Involutions in Sn | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec36)) |
-| 38 | Direct Bijective Proof of the Hook Length Formula | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec37)) |
-| 39 | Introduction to Tilings  {{< br >}}  {{< br >}}Thurston's Theorem | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec38))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Lecture Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Introduction  
+  
+Ramsey Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Additive Number Theory  
+  
+Theorems of Schur and Van der Waerden
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Lower Bound in Schur's Theorem  
+  
+Erdös-Szekeres Theorem (Two Proofs)  
+  
+2-Colorability of Multigraphs  
+  
+Intersection Conditions
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+More on Colorings  
+  
+Greedy Algorithm  
+  
+Height Functions Argument for 3-Colorings of a Rectangle  
+  
+Erdös Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+More on Colorings (cont.)  
+  
+Erdös-Lovász Theorem  
+  
+Brooks Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+5-Color Theorem  
+  
+Vizing's Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Edge Coloring of Bipartite Graphs  
+  
+Heawood Formula
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Glauber Dynamics  
+  
+The Diameter  
+  
+Explicit Calculations  
+  
+Bounds on Chromatic Number via the Number of Edges, and via the Independence Number
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec08))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Chromatic Polynomial  
+  
+NBC Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Acyclic Orientations  
+  
+Stanley's Theorem  
+  
+Two Definitions of the Tutte Polynomial
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+More on Tutte Polynomial  
+  
+Special Values  
+  
+External and Internal Activities  
+  
+Tutte's Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Tutte Polynomial for a Cycle  
+  
+Gessel's Formula for Tutte Polynomial of a Complete Graph
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Crapo's Bijection  
+  
+Medial Graph and Two Type of Cuts  
+  
+Introduction to Knot Theory  
+  
+Reidemeister Moves
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Kauffman Bracket and Jones Polynomial
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Algebra Methods  
+  
+Oddtown Theorem  
+  
+Fisher's Inequality  
+  
+2-Distance Sets
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec15))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Non-uniform Ray-Chaudhuri-Wilson Theorem  
+  
+Frankl-Wilson Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec16))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Borsuk Conjecture  
+  
+Kahn-Kalai Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec17))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Packing with Bipartite Graphs  
+  
+Testing Matrix Multiplication
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec18))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Hamiltonicity, Basic Results  
+  
+Tutte's Counter Example  
+  
+Length of the Longest Path in a Planar Graph
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec19))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Grinberg's Formula  
+  
+Lovász and Babai Conjectures for Vertex-transitive Graphs  
+  
+Dirac's Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec20))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Tutte's Theorem  
+  
+Every Cubic Graph Contains either no HC, or At Least Three  
+  
+Examples of Hamiltonian Cycles in Cayley Graphs of Sn
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec21))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Hamiltonian Cayley Graphs of General Groups
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec22))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Menger Theorem  
+  
+Gallai-Milgram Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec23))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Dilworth Theorem  
+  
+Hall's Marriage Theorem  
+  
+Erdös-Szekeres Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec24))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Sperner Theorem  
+  
+Two Proofs of Mantel Theorem  
+  
+Graham-Kleitman Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec25))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Swell Colorings  
+  
+Ward-Szabo Theorem  
+  
+Affine Planes
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec26))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Turán's Theorem  
+  
+Asymptotic Analogues
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec27))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Pattern Avoidance  
+  
+The case of S3 and Catalan Numbers  
+  
+Stanley-Wilf Conjecture
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec28))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Permutation Patterns  
+  
+Arratia Theorem  
+  
+Furedi-Hajnal Conjecture
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec29))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Proof by Marcus and Tardos of the Stanley-Wilf Conjecture
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec30))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Non-intersecting Path Principle  
+  
+Gessel-Viennot Determinants  
+  
+Binet-Cauchy Identity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Convex Polyomino  
+  
+Narayana Numbers  
+  
+MacMahon Formula
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec31))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Solid Partitions  
+  
+MacMahon's Theorem  
+  
+Hook-content Formula
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec32))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Hook Length Formula
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec33))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Two Polytope Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec34))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Connection to RSK  
+  
+Special Cases
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec35))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Duality  
+  
+Number of Involutions in Sn
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec36))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Direct Bijective Proof of the Hook Length Formula
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec37))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Tilings  
+  
+Thurston's Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec38))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
