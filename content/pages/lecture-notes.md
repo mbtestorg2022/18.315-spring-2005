@@ -32,7 +32,7 @@ Course Introduction
 Ramsey Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec01))
+([PDF]({{< baseurl >}}/resources/lec01))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +46,7 @@ Additive Number Theory
 Theorems of Schur and Van der Waerden
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec02))
+([PDF]({{< baseurl >}}/resources/lec02))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +64,7 @@ Erdös-Szekeres Theorem (Two Proofs)
 Intersection Conditions
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec03))
+([PDF]({{< baseurl >}}/resources/lec03))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +82,7 @@ Height Functions Argument for 3-Colorings of a Rectangle
 Erdös Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec04))
+([PDF]({{< baseurl >}}/resources/lec04))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ Erdös-Lovász Theorem
 Brooks Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec05))
+([PDF]({{< baseurl >}}/resources/lec05))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +112,7 @@ Brooks Theorem
 Vizing's Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec06))
+([PDF]({{< baseurl >}}/resources/lec06))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ Edge Coloring of Bipartite Graphs
 Heawood Formula
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec07))
+([PDF]({{< baseurl >}}/resources/lec07))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Explicit Calculations
 Bounds on Chromatic Number via the Number of Edges, and via the Independence Number
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec08))
+([PDF]({{< baseurl >}}/resources/lec08))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +158,7 @@ Chromatic Polynomial
 NBC Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec09))
+([PDF]({{< baseurl >}}/resources/lec09))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +174,7 @@ Stanley's Theorem
 Two Definitions of the Tutte Polynomial
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec10))
+([PDF]({{< baseurl >}}/resources/lec10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +192,7 @@ External and Internal Activities
 Tutte's Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec11))
+([PDF]({{< baseurl >}}/resources/lec11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +206,7 @@ Tutte Polynomial for a Cycle
 Gessel's Formula for Tutte Polynomial of a Complete Graph
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec12))
+([PDF]({{< baseurl >}}/resources/lec12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +224,7 @@ Introduction to Knot Theory
 Reidemeister Moves
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec13))
+([PDF]({{< baseurl >}}/resources/lec13))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +236,7 @@ Reidemeister Moves
 Kauffman Bracket and Jones Polynomial
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec14))
+([PDF]({{< baseurl >}}/resources/lec14))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +254,7 @@ Fisher's Inequality
 2-Distance Sets
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec15))
+([PDF]({{< baseurl >}}/resources/lec15))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +268,7 @@ Non-uniform Ray-Chaudhuri-Wilson Theorem
 Frankl-Wilson Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec16))
+([PDF]({{< baseurl >}}/resources/lec16))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +282,7 @@ Borsuk Conjecture
 Kahn-Kalai Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec17))
+([PDF]({{< baseurl >}}/resources/lec17))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +296,7 @@ Packing with Bipartite Graphs
 Testing Matrix Multiplication
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec18))
+([PDF]({{< baseurl >}}/resources/lec18))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,7 +312,7 @@ Tutte's Counter Example
 Length of the Longest Path in a Planar Graph
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec19))
+([PDF]({{< baseurl >}}/resources/lec19))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +328,7 @@ Lovász and Babai Conjectures for Vertex-transitive Graphs
 Dirac's Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec20))
+([PDF]({{< baseurl >}}/resources/lec20))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -344,7 +344,7 @@ Every Cubic Graph Contains either no HC, or At Least Three
 Examples of Hamiltonian Cycles in Cayley Graphs of Sn
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec21))
+([PDF]({{< baseurl >}}/resources/lec21))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -356,7 +356,7 @@ Examples of Hamiltonian Cycles in Cayley Graphs of Sn
 Hamiltonian Cayley Graphs of General Groups
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec22))
+([PDF]({{< baseurl >}}/resources/lec22))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,7 +370,7 @@ Menger Theorem
 Gallai-Milgram Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec23))
+([PDF]({{< baseurl >}}/resources/lec23))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -386,7 +386,7 @@ Hall's Marriage Theorem
 Erdös-Szekeres Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec24))
+([PDF]({{< baseurl >}}/resources/lec24))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -402,7 +402,7 @@ Two Proofs of Mantel Theorem
 Graham-Kleitman Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec25))
+([PDF]({{< baseurl >}}/resources/lec25))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -418,7 +418,7 @@ Ward-Szabo Theorem
 Affine Planes
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec26))
+([PDF]({{< baseurl >}}/resources/lec26))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +432,7 @@ Turán's Theorem
 Asymptotic Analogues
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec27))
+([PDF]({{< baseurl >}}/resources/lec27))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -448,7 +448,7 @@ The case of S3 and Catalan Numbers
 Stanley-Wilf Conjecture
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec28))
+([PDF]({{< baseurl >}}/resources/lec28))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -464,7 +464,7 @@ Arratia Theorem
 Furedi-Hajnal Conjecture
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec29))
+([PDF]({{< baseurl >}}/resources/lec29))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -476,7 +476,7 @@ Furedi-Hajnal Conjecture
 Proof by Marcus and Tardos of the Stanley-Wilf Conjecture
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec30))
+([PDF]({{< baseurl >}}/resources/lec30))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -508,7 +508,7 @@ Narayana Numbers
 MacMahon Formula
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec31))
+([PDF]({{< baseurl >}}/resources/lec31))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -524,7 +524,7 @@ MacMahon's Theorem
 Hook-content Formula
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec32))
+([PDF]({{< baseurl >}}/resources/lec32))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -536,7 +536,7 @@ Hook-content Formula
 Hook Length Formula
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec33))
+([PDF]({{< baseurl >}}/resources/lec33))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -548,7 +548,7 @@ Hook Length Formula
 Two Polytope Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec34))
+([PDF]({{< baseurl >}}/resources/lec34))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -562,7 +562,7 @@ Connection to RSK
 Special Cases
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec35))
+([PDF]({{< baseurl >}}/resources/lec35))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -576,7 +576,7 @@ Duality
 Number of Involutions in Sn
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec36))
+([PDF]({{< baseurl >}}/resources/lec36))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -588,7 +588,7 @@ Number of Involutions in Sn
 Direct Bijective Proof of the Hook Length Formula
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec37))
+([PDF]({{< baseurl >}}/resources/lec37))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -602,7 +602,7 @@ Introduction to Tilings
 Thurston's Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec38))
+([PDF]({{< baseurl >}}/resources/lec38))
 {{< tdclose >}}
 
 {{< trclose >}}
