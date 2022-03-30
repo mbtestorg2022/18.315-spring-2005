@@ -4,6 +4,7 @@ description: This resource includes questions based on simple graphs, billiard t
   and permutations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/9c8730ce1c29573546fe74c94b4797a5_hw7.pdf
 file_type: application/pdf
+parent_uid: 702f5c77-b2c3-b869-fde6-6d16b38a24f6
 resourcetype: Document
 title: hw7.pdf
 uid: 9c8730ce-1c29-5735-46fe-74c94b4797a5
